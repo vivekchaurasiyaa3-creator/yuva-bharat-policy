@@ -1,50 +1,44 @@
-Privacy Policy for Yuva Bharat
-Last Updated: September 09, 2026
-This Privacy Policy describes how Yuva Bharat ("we", "us", or "our") collects, uses, and shares your information when you use our mobile application.
+Privacy Policy
+
+Last Updated: September 16, 2026
+
+This Privacy Policy describes how Yuva Bharat collects, uses, and shares your information when you use our mobile application. By using the app, you agree to the practices described here.
+
 1. Information We Collect
-A. Personal Information
-When you register or update your profile, we collect:
-•
-Name and Hindi Name
-•
-Phone Number (used for identification and communication)
-•
-Email Address
-•
-Mailing Address (House No, Area, District, State, Pin Code)
-•
-Profile Bio
-B. User-Generated Content
-•
-Chat Messages: Messages sent between members.
-•
-Discussion Comments: Content posted in community discussion forums.
-C. Automatically Collected Data
-We use Firebase Analytics to collect information about app usage, such as features accessed and device models, to improve app performance.
+
+A. Personal Information: We collect your Name, Phone Number, Email Address, Physical Location, and Bio when you create a profile.
+
+B. User Content: We store chat messages and discussion comments you voluntarily post to facilitate communication within the community.
+
+C. Automated Data: Usage analytics and device identifiers are collected via Google Firebase to improve app performance.
+
 2. How We Use Your Information
-•
-To facilitate connection between youth members.
-•
-To manage registrations for Personality Development Camps and other programs.
-•
-To enable real-time messaging and community discussions.
-•
-To provide updates on Surya Foundation initiatives.
-3. Data Sharing
-We do not sell your personal data. Your information is stored using:
-•
-Google Firestore: For real-time data and chat.
-•
-Google Apps Script/Sheets: For administrative record-keeping.
-4. User-Generated Content (UGC) Policy
-To maintain a safe environment, we provide mechanisms to Report objectionable content and Block abusive users. We reserve the right to remove content or users that violate our community standards (No hate speech, harassment, or illegal content).
+
+We use your data to:
+
+Facilitate connections between members and trainers.
+Manage program registrations and foundation initiatives.
+Provide updates on community events.
+Ensure community safety through moderation.
+3. Data Sharing & Storage
+
+We do not sell your personal data to third parties. All user data is securely stored and managed via Google Cloud Firestore and Firebase Authentication. We use industry-standard encryption (HTTPS) for all data in transit.
+
+4. User Generated Content (UGC) & Safety
+
+To maintain a safe community, we provide mechanisms to Report and Block users. If you block a user, their content (comments, messages, and directory entries) will be immediately and permanently hidden from your view. Objectionable content or harassment is not tolerated and may lead to account suspension.
+
 5. Your Rights & Data Deletion
-You have the right to access and update your profile at any time. Account Deletion: You can delete your account and all associated data permanently via the "Delete Account" button in the Profile section of the app.
+
+You have full control over your data. You can update your profile at any time. To permanently delete your account and all associated personal data from our servers, use the "Delete Account & Data" button located in your Profile settings within the app.
+
 6. Security
-We enforce HTTPS for all data transmissions to ensure your personal information is encrypted and secure.
+
+We protect your information using R8 code obfuscation and backend security rules. User authentication is handled by Google Firebase; we never see or store your account passwords.
+
 7. Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
-•
+
+For any questions regarding this policy or your data, please contact us at:
+
 Email: info@suryafoundation.org
-•
 Website: www.suryafoundation.org
